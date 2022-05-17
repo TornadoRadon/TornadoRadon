@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **my untitled project**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **English**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Java, Java or Java**
+- 💬 Ask me about **Java, Kotlin or Cloud Services**
 
 - 📫 How to reach me **tornadoradon everywhere**
 
