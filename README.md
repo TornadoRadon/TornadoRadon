@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **tornadoradon everywhere**
 
-- ⚡ Fun fact **I've a year experience on prototyping 😊**
+- ⚡ Fun fact **Bees dont hear, they feel 🐝**
