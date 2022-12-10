@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **English**
 
-- 👨‍💻 All of my projects are available at [github](github)
-
 - 💬 Ask me about **Java, Kotlin or Cloud Services**
 
 - 📫 How to reach me **tornadoradon everywhere**
