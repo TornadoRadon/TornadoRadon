@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **tornadoradon everywhere**
 
-- ⚡ Fun fact **Bees dont hear, they feel 🐝**
+- ⚡ Fun fact **Bees hear but they don't have ears 🐝**
